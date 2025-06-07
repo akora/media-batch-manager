@@ -1,0 +1,12 @@
+Pillow>=10.1.0
+ImageHash>=4.3.1
+tqdm>=4.66.1
+numpy>=1.26.0
+scipy>=1.11.3
+PyWavelets>=1.5.0
+pillow-heif>=0.13.0
+chardet>=5.0.0
+chardet
+PyPDF2
+beautifulsoup4
+lxml
